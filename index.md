@@ -23,16 +23,16 @@ Compare the output to hash published at archlinux.org/download:
 ---
 
 ## 2. Create the VM
-| Setting           | Choice                                                                  |
-| ----------------- | ----------------------------------------------------------------------- |
-| Guest OS          | Linux, Other Linux 6.x kernel 64-bit                                    |
-| Name              | Arch                                                                    |
-| Processors        | 2 processors, 1 core per processor                                      |
-| Memory            | 2048 MB                                                                 |
-| Network type      | NAT                                                                     |
-| I/O controller    | LSI Logic (default)                                                     |
-| Virtual disk type | SCSI (default)                                                          |
-| Disk              | New virtual disk, 20 GB, stored as a single file, default file location |
+| Setting | Choice |
+|---|---|
+| Guest OS | Linux, Other Linux 6.x kernel 64-bit |
+| Name | Arch |
+| Processors | 2 processors, 1 core per processor |
+| Memory | 2048 MB |
+| Network type | NAT |
+| I/O controller | LSI Logic (default) |
+| Virtual disk type | SCSI (default) |
+| Disk | New virtual disk, 20 GB, stored as a single file, default file location |
 
 Then click Finish. The ISO is attached under **Settings -> CD/DVD -> Use ISO image file**.
 
