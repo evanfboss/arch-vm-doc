@@ -33,6 +33,7 @@ Compare the output to hash published at archlinux.org/download:
 | I/O controller    | LSI Logic (default)                                                     |
 | Virtual disk type | SCSI (default)                                                          |
 | Disk              | New virtual disk, 20 GB, stored as a single file, default file location |
+
 Then click Finish. The ISO is attached under **Settings -> CD/DVD -> Use ISO image file**.
 
 ---
