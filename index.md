@@ -23,6 +23,7 @@ Compare the output to hash published at archlinux.org/download:
 ---
 
 ## 2. Create the VM
+
 | Setting | Choice |
 |---|---|
 | Guest OS | Linux, Other Linux 6.x kernel 64-bit |
